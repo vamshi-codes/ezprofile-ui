@@ -1,0 +1,36 @@
+{
+    "categories": [
+      {
+        "categoryId": 1,
+        "category": "Company Overview",
+        "questions": [
+          "What are the main challenges you are facing?",
+          "what is your age?"
+        ]
+      },
+      {
+        "categoryId": 2,
+        "category": "Server",
+        "questions": [
+          "what is your name?",
+          "what is your age?"
+        ]
+      },
+      {
+        "categoryId": 3,
+        "category": "Network",
+        "questions": [
+          "what is your name?",
+          "what is your age?"
+        ]
+      },
+      {
+        "categoryId": 4,
+        "category": "Storage",
+        "questions": [
+          "what is your name?",
+          "what is your age?"
+        ]
+      }
+    ]
+  }
