@@ -1,0 +1,41 @@
+{
+    "categories": [
+      {
+        "categoryId": 1,
+        "categoryKey": "company-overview", 
+        "category": "Company Overview",
+        "questions": [
+          "What are the main challenges you are facing?",
+          "what is your age?",
+          "hello"
+        ]
+      },
+      {
+        "categoryId": 2,
+        "categoryKey": "server",
+        "category": "Server",
+        "questions": [
+          "what is your name?",
+          "what is your age?"
+        ]
+      },
+      {
+        "categoryId": 3,
+        "categoryKey": "network",
+        "category": "Network",
+        "questions": [
+          "what is your name?",
+          "what is your age?"
+        ]
+      },
+      {
+        "categoryId": 4,
+        "categoryKey": "storage",
+        "category": "Storage",
+        "questions": [
+          "what is your name?",
+          "what is your age?"
+        ]
+      }
+    ]
+  }
