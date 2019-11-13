@@ -133,7 +133,7 @@ class App extends Component {
             variant="dark"
             size="lg"
             block 
-            onClick={this.generateCsv}>Download Me</Button>
+            onClick={this.generateCsv}>Download as csv</Button>
 
             <CSVLink 
             data={this.state.csv} 
