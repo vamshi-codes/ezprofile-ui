@@ -9,4 +9,4 @@
 - npm install
 - npm start
 - view app at http://localhost:3000/
-- changes to `https://github.com/vamshi-codes/ezprofile-ui/blob/master/src/data/profile.json` adds more questions in real-time
+- changes to `src/data/profile.json` adds more questions in real-time
